@@ -16,9 +16,9 @@ interface Props {
 
 export const NavbarWrapper = ({children}: Props) => {
    const collapseItems = [
-      'Profile',
-      'Dashboard',
-      'Activity',
+      'Robots',
+      'Chats',
+      'Jobs',
       'Analytics',
       'System',
       'Deployments',
